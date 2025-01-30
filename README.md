@@ -20,7 +20,7 @@
 <!-- Contribution Graph-->
 <h3 align="center"> Watch a Snake 🐍 eating my contribution graph </h3>
 <p align="center">
-<img src="https://github.com/Shipra53/Shipra53blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/Shipra53/Shipra53/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 <div align="center">
