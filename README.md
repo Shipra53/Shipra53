@@ -21,7 +21,7 @@
 <img src="https://github.com/Shipra53/Shipra53/blob/output/github-contribution-grid-snake.svg">
 </p>
 <div align="center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shipra53&bg_color=e59ac2&color=403b3f&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/Shipra53/github-readme-activity-graph" width="700px"  /></div>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shipra53&bg_color=e59ac2&color=403b3f&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/Shipra53/github-readme-activity-graph" width="700px"/></div>
 <br/>
 
 **Visitor Count**
