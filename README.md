@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently  pursuing my Bachelor's Degree(BCA) from University of Allahabad<br>💻 At the moment , I am aiming to upgrade my technical skills and develop web development projects.<br>🤝 I’m looking for help with<br>✨ Interested in exploring the possibilities of *Android Development<br>💬 Ask me about Java, Android app development , C++ , C , My SQL .<br>
+🔭 I’m currently  pursuing my Bachelor's Degree(BCA) from University of Allahabad<br>💻 At the moment , I am aiming to upgrade my technical skills and develop web development projects.<br>🤝 I’m looking for help with<br>✨ Interested in exploring the possibilities of *Android Development<br>💬 Ask me about Java, Android app development , C++ , C , My SQL , Java , .<br>
 
 
 ## 🌐 Socials:
