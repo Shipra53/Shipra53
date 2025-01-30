@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shipra53&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shipra53&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shipra53&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)&theme=dark&langs_count=6&count_private=true&text_color=F5F3E4&title_color=F3CCAE)![Shipra Upadhyay](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shipra Upadhyay&theme=gruvbox) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shipra53&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&theme=dark&langs_count=6&count_private=true&text_color=F5F3E4&title_color=F3CCAE)|![Shipra Upadhyay](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shipra Upadhyay&theme=gruvbox)|
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shipra53&icon=4&color=5)](https://visitcount.itsvg.in)
