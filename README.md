@@ -15,14 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Shipra53&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shipra53&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shipra53&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)|![Shipra Upadhyay](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shipra53&theme=gruvbox)
-<!-- Contribution Graph-->
-<h3 align="center"> Watch a Snake 🐍 eating my contribution graph </h3>
-<p align="center">
-<img src="https://github.com/Shipra53/Shipra53/blob/output/github-contribution-grid-snake.svg">
-</p>
-<div align="center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shipra53&bg_color=e59ac2&color=403b3f&line=d04ec7&point=8d256c&area=true&hide_border=true)](https://github.com/Shipra53/github-readme-activity-graph" width="700px"/></div>
-<br/>
 
 **Visitor Count**
 ![Visitor Count](https://profile-counter.glitch.me/{Shipra53}/count.svg)
