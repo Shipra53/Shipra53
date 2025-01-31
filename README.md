@@ -1,9 +1,9 @@
 # 💫 About Me:
 <div align="center">
-<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="400px" /> 
+<img src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" height="200px" width ="200px"/> 
 </div>
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shipra Upadhyay</h1>
-🔭 I’m currently  pursuing my Master Degree(MCA) from KIET Group Of Institutions, Ghaziabad.<br> I have completed my Bachelor of Computer Application from University Of Allahabad.<br>💻 At the moment , I am aiming to upgrade my technical skills and develop web development projects.<br>🤝 I’m looking for help with<br>✨ Interested in exploring the possibilities of Android Development<br>💬 Ask me about Java, Android app development , C++ , C , My SQL , Java , .<br>
+🔭 I’m currently  pursuing my Master Degree(MCA) from KIET Group Of Institutions, Ghaziabad.<br> I have completed my Bachelor of Computer Application from University Of Allahabad.<br>💻 At the moment , I am aiming to upgrade my technical skills and develop web development projects.<br>🤝 I’m looking for help with<br>✨ Interested in exploring the possibilities of Android Development<br>💬 Ask me about Java, Android app development , C++ , C , My SQL , Linux, HTML, CSS.<br>
 
 
 ## 🌐 Socials:
