@@ -8,6 +8,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_07_shipra) 
+<a  href="https://https://www.linkedin.com/in/shipra-upadhyay-6136a632b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-1C8D73?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-6A1B4D?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-03203C?style=for-the-badge&logo=Linux&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Windows](https://img.shields.io/badge/windows-3944F7?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-1FAA59?style=for-the-badge&logo=Android&logoColor=black) ![Android Studio](https://img.shields.io/badge/Androidstudio-00BC404C3AE3?style=for-the-badge&logo=Androidstudio&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
