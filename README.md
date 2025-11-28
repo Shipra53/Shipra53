@@ -12,7 +12,7 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-1C8D73?style=for-the-badge&logo=c&logoColor=white) ![java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-03203C?style=for-the-badge&logo=Linux&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Windows](https://img.shields.io/badge/windows-3944F7?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-1FAA59?style=for-the-badge&logo=Android&logoColor=black) ![Android Studio](https://img.shields.io/badge/Androidstudio-00BC404C3AE3?style=for-the-badge&logo=Androidstudio&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://login.salesforce.com/)
-[![Trailhead](https://img.shields.io/badge/Trailhead-009DDC?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailhead.salesforce.com/)
+![Trailhead](https://img.shields.io/badge/Trailhead-009DDC?style=for-the-badge&logo=salesforce&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shipra53&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shipra53&theme=radical&hide_border=false)<br/>
