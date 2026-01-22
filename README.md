@@ -52,7 +52,10 @@
 
 ## 👀 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/Shipra53/count.svg)
+## 👀 Visitor Count
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=Shipra53&icon=5&color=6)
+
 
 <!--
 Shipra53/Shipra53 is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
