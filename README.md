@@ -49,6 +49,10 @@
 ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shipra53&theme=gruvbox)
 
 ---
+## 🔥 Streak Total
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shipra53)
+
 
 ## 👀 Visitor Count
 
