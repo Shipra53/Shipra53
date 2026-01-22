@@ -18,6 +18,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shipra53&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shipra53&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>|![Shipra Upadhyay](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shipra53&theme=gruvbox)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shipra53&theme=radical&hide_border=false)
 **Visitor Count**
 ![Visitor Count](https://profile-counter.glitch.me/{Shipra53}/count.svg)
 
